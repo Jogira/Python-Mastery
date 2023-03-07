@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-twilio = "*"
-beautifulsoup4 = "*"
+selenium = "*"
+pypdf2 = "*"
+numpy = "*"
 
 [dev-packages]
 
