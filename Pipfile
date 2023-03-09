@@ -8,6 +8,7 @@ selenium = "*"
 pypdf2 = "*"
 numpy = "*"
 django = "*"
+pylint-django = "*"
 
 [dev-packages]
 
