@@ -9,6 +9,7 @@ pypdf2 = "*"
 numpy = "*"
 django = "*"
 pylint-django = "*"
+django-tastypie = "*"
 
 [dev-packages]
 
